@@ -1,4 +1,4 @@
-package org.acme;
+package br.com.brsilvacarlos.rinhadebackend2025;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
